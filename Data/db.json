@@ -1,0 +1,253 @@
+{
+    "playlists": [
+        {
+            "id": 1,
+            "name": "Pop Hits",
+            "image": "https://images.unsplash.com/photo-1520872024865-3ff2805d8bb3?auto=format&fit=crop&q=80&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&w=2880",
+            "description": "The hottest pop songs of the year",
+            "songs": [
+                {
+                    "id": 11,
+                    "name": "Monaco",
+                    "img":"https://m.media-amazon.com/images/I/616P7YioCML._UF1000,1000_QL80_.jpg",
+                    "artist": "Bad Bunny",
+                    "duration": "3:45",
+                    "audio": "https://tutorialehtml.com/assets_tutorials/media/Loreena_Mckennitt_Snow_56bit.mp3"
+                },
+                {
+                    "id": 12,
+                    "name": "Gredy",
+                    "img":"https://m.media-amazon.com/images/I/616P7YioCML._UF1000,1000_QL80_.jpg",
+                    "artist": "Gredds",
+                    "duration": "4:15"
+                },
+                {
+                    "id": 13,
+                    "name": "Strangers",
+                    "img":"https://m.media-amazon.com/images/I/616P7YioCML._UF1000,1000_QL80_.jpg",
+                    "artist": "Tate",
+                    "duration": "2:50"
+                },
+                {
+                    "id": 14,
+                    "name": "Strangers",
+                    "img":"https://m.media-amazon.com/images/I/616P7YioCML._UF1000,1000_QL80_.jpg",
+                    "artist": "SKenya Grace",
+                    "duration": "3:30"
+                },
+                {
+                    "id": 15,
+                    "name": "Water",
+                    "img":"https://m.media-amazon.com/images/I/616P7YioCML._UF1000,1000_QL80_.jpg",
+                    "artist": "Tyla",
+                    "duration": "4:00"
+                },
+                {
+                    "id": 16,
+                    "name": "Cruel Summer",
+                    "img":"https://m.media-amazon.com/images/I/616P7YioCML._UF1000,1000_QL80_.jpg",
+                    "artist": "Taylor Swift",
+                    "duration": "3:20"
+                },
+                {
+                    "id": 17,
+                    "name": "What Was I Made For?",
+                    "img":"https://m.media-amazon.com/images/I/616P7YioCML._UF1000,1000_QL80_.jpg",
+                    "artist": "Billie Eilish",
+                    "duration": "3:55"
+                },
+                {
+                    "id": 18,
+                    "name": "Calm Down",
+                    "img":"https://m.media-amazon.com/images/I/616P7YioCML._UF1000,1000_QL80_.jpg",
+                    "artist": "Selena Gomes & Rema",
+                    "duration": "4:10"
+                },
+                {
+                    "id": 19,
+                    "name": "Chemical",
+                    "img":"https://m.media-amazon.com/images/I/616P7YioCML._UF1000,1000_QL80_.jpg",
+                    "artist": "Post Malone",
+                    "duration": "3:40"
+                },
+                {
+                    "id": 110,
+                    "name": "Karma",
+                    "img":"https://m.media-amazon.com/images/I/616P7YioCML._UF1000,1000_QL80_.jpg",
+                    "artist": "Taylor Swiftie",
+                    "duration": "4:25"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Rock Classics",
+            "image": "https://i.scdn.co/image/b040846ceba13c3e9c125d68389491094e7f2982",
+            "description": "Timeless rock anthems",
+            "songs": [
+                {
+                    "id": 21,
+                    "name": "Stairway to Heaven" ,
+                    "img":"https://m.media-amazon.com/images/I/91jMcUINQpL._UF894,1000_QL80_.jpg",
+                    "artist": "Led Zeppelin",
+                    "duration": "3:45"
+                },
+                {
+                    "id": 22,
+                    "name": "Bohemian Rhapsody",
+                    "img":"https://m.media-amazon.com/images/I/91jMcUINQpL._UF894,1000_QL80_.jpg",
+                    "artist": "Queen",
+                    "duration": "4:15"
+                },
+                {
+                    "id": 23,
+                    "name": "Hotel California",
+                    "img":"https://m.media-amazon.com/images/I/91jMcUINQpL._UF894,1000_QL80_.jpg",
+                    "artist": "Eagles",
+                    "duration": "2:50"
+                },
+                {
+                    "id": 24,
+                    "name": "Sweet Child o' Mine",
+                    "img":"https://m.media-amazon.com/images/I/91jMcUINQpL._UF894,1000_QL80_.jpg",
+                    "artist": "Guns N' Roses",
+                    "duration": "3:30"
+                },
+                {
+                    "id": 25,
+                    "name": "Imagine",
+                    "img":"https://m.media-amazon.com/images/I/91jMcUINQpL._UF894,1000_QL80_.jpg",
+                    "artist": "John Lennon",
+                    "duration": "4:00"
+                },
+                {
+                    "id": 26,
+                    "name": "Smells Like Teen Spirit" ,
+                    "img":"https://m.media-amazon.com/images/I/91jMcUINQpL._UF894,1000_QL80_.jpg",
+                    "artist": "Nirvana",
+                    "duration": "3:20"
+                },
+                {
+                    "id": 27,
+                    "name": "Like a Rolling Stone",
+                    "img":"https://m.media-amazon.com/images/I/91jMcUINQpL._UF894,1000_QL80_.jpg",
+                    "artist": "Bob Dylan",
+                    "duration": "3:55"
+                },
+                {
+                    "id": 28,
+                    "name": "We Will Rock You" ,
+                    "img":"https://m.media-amazon.com/images/I/91jMcUINQpL._UF894,1000_QL80_.jpg",
+                    "artist": "Queen",
+                    "duration": "4:10"
+                },
+                {
+                    "id": 29,
+                    "name": "Chemical",
+                    "img":"https://m.media-amazon.com/images/I/91jMcUINQpL._UF894,1000_QL80_.jpg",
+                    "artist": "Post Malone",
+                    "duration": "3:40"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Queen",
+            "image": "https://i.scdn.co/image/b040846ceba13c3e9c125d68389491094e7f2982",
+            "description": "Queen is a legendary British rock band formed in 1970, known for its distinctive sound characterized by the fusion of various musical genres, including rock, pop, opera, and elements of classical music.",
+            "songs": [
+                {
+                    "id": 31,
+                    "name": "Bohemian Rhapsody",
+                    "img":"https://m.media-amazon.com/images/I/91jMcUINQpL._UF894,1000_QL80_.jpg",
+                    "artist": "Queen",
+                    "duration": "4:15"
+                },
+                {
+                    "id": 32,
+                    "name": "Another One Bites the Dust",
+                    "img":"https://m.media-amazon.com/images/I/91jMcUINQpL._UF894,1000_QL80_.jpg",
+                    "artist": "Queen",
+                    "duration": "4:15"
+                },
+                {
+                    "id": 33,
+                    "name": "We Will Rock You",
+                    "img":"https://m.media-amazon.com/images/I/91jMcUINQpL._UF894,1000_QL80_.jpg",
+                    "artist": "Queen",
+                    "duration": "4:15"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Chill Out",
+            "description": "Relaxing music for a laid-back day",
+            "tracks": [
+                "Song 10",
+                "Song 11",
+                "Song 12"
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Country Jams",
+            "description": "Best of country music",
+            "tracks": [
+                "Song 13",
+                "Song 14",
+                "Song 15"
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Electronic Beats",
+            "description": "EDM and electronic hits",
+            "tracks": [
+                "Song 16",
+                "Song 17",
+                "Song 18"
+            ]
+        },
+        {
+            "id": 7,
+            "name": "Indie Vibes",
+            "description": "Discover indie music gems",
+            "tracks": [
+                "Song 19",
+                "Song 20",
+                "Song 21"
+            ]
+        },
+        {
+            "id": 8,
+            "name": "Jazz Lounge",
+            "description": "Smooth jazz for your evening",
+            "tracks": [
+                "Song 22",
+                "Song 23",
+                "Song 24"
+            ]
+        },
+        {
+            "id": 9,
+            "name": "Classical Masterpieces",
+            "description": "Timeless classical compositions",
+            "tracks": [
+                "Song 25",
+                "Song 26",
+                "Song 27"
+            ]
+        },
+        {
+            "id": 10,
+            "name": "Reggae Grooves",
+            "description": "Feel the reggae rhythm",
+            "tracks": [
+                "Song 28",
+                "Song 29",
+                "Song 30"
+            ]
+        }
+    ]
+}
